@@ -1,5 +1,4 @@
-# 병합 테스트
-# 병합 테스트2
+# Remote Repository에서 수정되었습니다.
 import sys
 import os, os.path
 import datetime
