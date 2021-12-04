@@ -100,3 +100,5 @@ if __name__ == '__main__':
     main = MainView()
     # main.show()
     sys.exit(app.exec_())
+
+# Local Repository에서 수정되었습니다.
